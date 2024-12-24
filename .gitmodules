@@ -1,0 +1,18 @@
+[submodule "Accessibility"]
+	path = Accessibility
+	url = https://github.com/f-ship/Engine.Server.Utils.Accessibility
+[submodule "Lexeme"]
+	path = Lexeme
+	url = https://github.com/f-ship/Engine.Server.Utils.Lexeme
+[submodule "Monitoring"]
+	path = Monitoring
+	url = https://github.com/f-ship/Engine.Server.Utils.Monitoring
+[submodule "Networking"]
+	path = Networking
+	url = https://github.com/f-ship/Engine.Server.Utils.Networking
+[submodule "PushNotifications"]
+	path = PushNotifications
+	url = https://github.com/f-ship/Engine.Server.Utils.PushNotifications
+[submodule "ServerDrivenUI"]
+	path = ServerDrivenUI
+	url = https://github.com/f-ship/Engine.Server.Utils.ServerDrivenUI
