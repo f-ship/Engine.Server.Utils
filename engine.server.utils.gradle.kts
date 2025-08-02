@@ -13,7 +13,6 @@ application {
 }
 
 dependencies {
-    implementation(libs.logback)
     implementation(libs.ktor.server.core)
     implementation(libs.ktor.server.netty)
     testImplementation(libs.ktor.server.tests.host)
